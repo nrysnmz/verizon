@@ -20,5 +20,5 @@ public class Customer {
 
     @Column(name = "Customer Age")
     private String age;
-
+    
 }
